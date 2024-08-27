@@ -105,6 +105,8 @@ The project is organized into the following main components:
     - **`movie recommendation final.ipynb`**: Jupyter notebook for developing and testing the movie recommendation algorithm, including vectorization and cosine similarity calculations.
 
 
+## Contributing
+
   - Contributions are welcome! Please fork this repository and submit a pull request with your improvements or bug fixes. 
 
 ## License
